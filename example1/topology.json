@@ -1,0 +1,104 @@
+{
+    "clusters": [
+        {
+            "nodes": [
+                {
+                    "node": {
+                        "hostnames": {
+                            "manage": [
+                                "gluster1"
+                            ],
+                            "storage": [
+                                "192.168.122.51"
+                            ]
+                        },
+                        "zone": 1
+                    },
+                    "devices": [
+                        "/dev/vdb"
+                    ]
+                },
+                {
+                    "node": {
+                        "hostnames": {
+                            "manage": [
+                                "gluster2"
+                            ],
+                            "storage": [
+                                "192.168.122.52"
+                            ]
+                        },
+                        "zone": 2
+                    },
+                    "devices": [
+                        "/dev/vdb"
+                    ]
+                },
+                {
+                    "node": {
+                        "hostnames": {
+                            "manage": [
+                                "gluster3"
+                            ],
+                            "storage": [
+                                "192.168.122.53"
+                            ]
+                        },
+                        "zone": 3
+                    },
+                    "devices": [
+                        "/dev/vdb"
+                    ]
+                },
+                {
+                    "node": {
+                        "hostnames": {
+                            "manage": [
+                                "gluster4"
+                            ],
+                            "storage": [
+                                "192.168.122.54"
+                            ]
+                        },
+                        "zone": 1
+                    },
+                    "devices": [
+                        "/dev/vdb"
+                    ]
+                },
+                {
+                    "node": {
+                        "hostnames": {
+                            "manage": [
+                                "gluster5"
+                            ],
+                            "storage": [
+                                "192.168.122.55"
+                            ]
+                        },
+                        "zone": 2
+                    },
+                    "devices": [
+                        "/dev/vdb"
+                    ]
+                },
+                {
+                    "node": {
+                        "hostnames": {
+                            "manage": [
+                                "gluster6"
+                            ],
+                            "storage": [
+                                "192.168.122.56"
+                            ]
+                        },
+                        "zone": 3
+                    },
+                    "devices": [
+                        "/dev/vdb"
+                    ]
+                }
+            ]
+        }
+    ]
+}
